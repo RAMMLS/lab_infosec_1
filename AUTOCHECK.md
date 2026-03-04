@@ -1,6 +1,6 @@
 # Результаты автоматической проверки
 
-- **Дата:** 2026-03-04 11:11:07
+- **Дата:** 2026-03-04 14:10:32
 - **Студент:** Шакиров Роберт
 - **Группа:** КТСО-13-24
 - **Лабораторная работа:** 1
@@ -12,9 +12,10 @@
 
 ## Детали тестов
 
-### test_sum.sh – НЕ ПРОЙДЕН (0.02 с)
+### test_sum.sh – НЕ ПРОЙДЕН (2.34 с)
 ```
-docker: Cannot connect to the Docker daemon at unix:///run/user/1000/docker.sock. Is the docker daemon running?
+Unable to find image 'lab_docker:latest' locally
+docker: Error response from daemon: pull access denied for lab_docker, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
 
 Run 'docker run --help' for more information
 ```
