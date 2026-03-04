@@ -1,6 +1,6 @@
 # Результаты автоматической проверки
 
-- **Дата:** 2026-03-03 12:52:14
+- **Дата:** 2026-03-04 09:58:32
 - **Студент:** Шакиров Роберт
 - **Группа:** КТСО-13-24
 - **Лабораторная работа:** 1
@@ -12,7 +12,7 @@
 
 ## Детали тестов
 
-### test_sum.sh – НЕ ПРОЙДЕН (1.62 с)
+### test_sum.sh – НЕ ПРОЙДЕН (2.09 с)
 ```
 Unable to find image 'lab_docker:latest' locally
 docker: Error response from daemon: pull access denied for lab_docker, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
